@@ -1,0 +1,2 @@
+D:\VSProjects\gauss\x64\Debug\gauss.exe
+D:\VSProjects\mikola\lab 1\x64\Debug\gauss.exe
