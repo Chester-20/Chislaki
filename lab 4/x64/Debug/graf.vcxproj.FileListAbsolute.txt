@@ -1,0 +1,2 @@
+D:\VSProjects\graf\x64\Debug\graf.exe
+D:\VSProjects\mikola\lab 4\x64\Debug\graf.exe

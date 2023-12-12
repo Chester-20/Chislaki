@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VSProjects\mikola\lab 4\Source.cpp(59,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  graf.vcxproj -> D:\VSProjects\mikola\lab 4\x64\Debug\graf.exe
