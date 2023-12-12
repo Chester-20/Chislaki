@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\VSProjects\mikola\lab 5\Source.cpp(86,89): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\VSProjects\mikola\lab 5\Source.cpp(86,87): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  integral.vcxproj -> D:\VSProjects\mikola\lab 5\x64\Debug\integral.exe
