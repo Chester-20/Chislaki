@@ -1,0 +1,2 @@
+D:\VSProjects\newton\x64\Debug\newton.exe
+D:\VSProjects\mikola\lab 2\x64\Debug\newton.exe
